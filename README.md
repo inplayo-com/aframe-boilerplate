@@ -1,1 +1,0 @@
-# inplayo-aframe-boilerplate
