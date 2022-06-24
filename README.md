@@ -1,6 +1,6 @@
 # A-Frame Boilerplate
 
-This is template project for building VR Application using [A-Frame](https://aframe.io/) framework. Project contains predefined structure, code examples and predefined propular aframe components.
+This is template project for building VR Application using [A-Frame](https://aframe.io/) framework. Project contains predefined structure, code examples and predefined popular aframe components.
 
 [Live example](https://demo.inplayo.com/aframe/boilerplate/)
 
