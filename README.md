@@ -1,10 +1,10 @@
-
-![Logo](https://inplayo.com/wp-content/themes/inplayo/assets/images/logo/inplayo.svg|width=150px)
-
-
 # A-Frame Boilerplate
 
 This is template project for building VR Application using [A-Frame](https://aframe.io/) framework. Project contains predefined structure, code examples and predefined propular aframe components.
+
+[Live example](https://demo.inplayo.com/aframe/boilerplate/)
+
+![project entry](https://dendrofen.github.io/inplayo/media/aframe-boilerplate.png)
 
 
 ## Opportunities
@@ -18,13 +18,6 @@ This is template project for building VR Application using [A-Frame](https://afr
 - configurable preloader (change logo, preloader text)
 - ready-made raycaster functionality
 - tested stable components version
-
-
-## Demo
-
-[Website](https://demo.inplayo.com/aframe/boilerplate/)
-
-![project entry](https://dendrofen.github.io/inplayo/media/aframe-boilerplate.png)
 
 
 ## Predefined components
